@@ -1,4 +1,4 @@
-# AlgaWorks-Logica-Programacao-Java
+# AlgaWorks Curso JAVA
 
 Curso de lógica de programação em JAVA.
 
