@@ -73,13 +73,13 @@ Curso de lógica de programação em JAVA.
   - Escrevendo informações em arquivos de texto
   - Lendo informações de um arquivo de texto
  
- 12. Algoritmos avançados
+ 11. Algoritmos avançados
   - Introdução aos algoritmos avançados
   - Criando uma lista dinâmica
   - Removendo elementos da lista
   - Ordenando a lista
  
- 13. Pré-requisitos para nossa primeira aplicação web
+ 12. Pré-requisitos para nossa primeira aplicação web
   - Por onde começar a criar uma aplicação web
   - Evoluindo para o Spring Tool Suite (STS)
   - O que é HTML?
@@ -88,7 +88,7 @@ Curso de lógica de programação em JAVA.
   - Incluindo as páginas HTML no projeto
   - Fluxo de uma requisição web
  
- 14. Criando sua primeira aplicação
+ 13. Criando sua primeira aplicação
   - Importando o projeto de base
   - Criando a classe Contato
   - Configurando o armazenamento de contatos
