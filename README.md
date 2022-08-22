@@ -73,12 +73,6 @@ Curso de lógica de programação em JAVA.
   - Escrevendo informações em arquivos de texto
   - Lendo informações de um arquivo de texto
  
- 11. Ultilizando código de outros programadores
-  - Introdução ao uso de códigos de terceiros
-  - Bibliotecas x Frameworks
-  - Utilizando uma biblioteca de terceiro para envio de e-mails
-  - Criando o sua própria biblioteca
-  
  12. Algoritmos avançados
   - Introdução aos algoritmos avançados
   - Criando uma lista dinâmica
